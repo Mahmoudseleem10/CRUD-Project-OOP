@@ -1,0 +1,14 @@
+C:\Users\BS\Desktop\ProJOOP\UpSolveCRUDUsingOOP\UpSolveCRUDUsingOOP\bin\Debug\net8.0\UpSolveCRUDUsingOOP.exe
+C:\Users\BS\Desktop\ProJOOP\UpSolveCRUDUsingOOP\UpSolveCRUDUsingOOP\bin\Debug\net8.0\UpSolveCRUDUsingOOP.deps.json
+C:\Users\BS\Desktop\ProJOOP\UpSolveCRUDUsingOOP\UpSolveCRUDUsingOOP\bin\Debug\net8.0\UpSolveCRUDUsingOOP.runtimeconfig.json
+C:\Users\BS\Desktop\ProJOOP\UpSolveCRUDUsingOOP\UpSolveCRUDUsingOOP\bin\Debug\net8.0\UpSolveCRUDUsingOOP.dll
+C:\Users\BS\Desktop\ProJOOP\UpSolveCRUDUsingOOP\UpSolveCRUDUsingOOP\bin\Debug\net8.0\UpSolveCRUDUsingOOP.pdb
+C:\Users\BS\Desktop\ProJOOP\UpSolveCRUDUsingOOP\UpSolveCRUDUsingOOP\obj\Debug\net8.0\UpSolveCRUDUsingOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS\Desktop\ProJOOP\UpSolveCRUDUsingOOP\UpSolveCRUDUsingOOP\obj\Debug\net8.0\UpSolveCRUDUsingOOP.AssemblyInfoInputs.cache
+C:\Users\BS\Desktop\ProJOOP\UpSolveCRUDUsingOOP\UpSolveCRUDUsingOOP\obj\Debug\net8.0\UpSolveCRUDUsingOOP.AssemblyInfo.cs
+C:\Users\BS\Desktop\ProJOOP\UpSolveCRUDUsingOOP\UpSolveCRUDUsingOOP\obj\Debug\net8.0\UpSolveCRUDUsingOOP.csproj.CoreCompileInputs.cache
+C:\Users\BS\Desktop\ProJOOP\UpSolveCRUDUsingOOP\UpSolveCRUDUsingOOP\obj\Debug\net8.0\UpSolveCRUDUsingOOP.dll
+C:\Users\BS\Desktop\ProJOOP\UpSolveCRUDUsingOOP\UpSolveCRUDUsingOOP\obj\Debug\net8.0\refint\UpSolveCRUDUsingOOP.dll
+C:\Users\BS\Desktop\ProJOOP\UpSolveCRUDUsingOOP\UpSolveCRUDUsingOOP\obj\Debug\net8.0\UpSolveCRUDUsingOOP.pdb
+C:\Users\BS\Desktop\ProJOOP\UpSolveCRUDUsingOOP\UpSolveCRUDUsingOOP\obj\Debug\net8.0\UpSolveCRUDUsingOOP.genruntimeconfig.cache
+C:\Users\BS\Desktop\ProJOOP\UpSolveCRUDUsingOOP\UpSolveCRUDUsingOOP\obj\Debug\net8.0\ref\UpSolveCRUDUsingOOP.dll
